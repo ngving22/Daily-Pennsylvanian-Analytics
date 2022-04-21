@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Andrew Ng -- Systems Science and Engineering Major at the University of Pennsylvania
 
 You can use the [editor on GitHub](https://github.com/ngving22/Daily-Pennsylvanian-Analytics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
